@@ -1,0 +1,6 @@
+.remove {
+  background: rgb(230, 13, 13);
+}
+.remove:hover {
+  background: rgb(150, 8, 8);
+}
